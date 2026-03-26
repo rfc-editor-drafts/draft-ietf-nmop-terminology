@@ -1,2 +1,2 @@
-# base-template
-Base template repository for drafts
+# draft-ietf-nmop-terminology
+Test of DraftForge and Purple features
